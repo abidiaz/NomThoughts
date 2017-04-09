@@ -1,0 +1,24 @@
+{
+  "name": "nomthoughts",
+  "version": "1.0.0",
+  "description": "A Twitter bot about food",
+  "main": "bot.js",
+  "dependencies": {
+    "twit": "^2.2.5",
+    "unique-random-array": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abidiaz/NomThoughts.git"
+  },
+  "author": "Abigail Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abidiaz/NomThoughts/issues"
+  },
+  "homepage": "https://github.com/abidiaz/NomThoughts#readme"
+}
